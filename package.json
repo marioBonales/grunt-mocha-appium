@@ -34,7 +34,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "wd": "~0.2.5",
+    "wd": "https://github.com/marioBonales/wd/tarball/master",
     "mocha": "~1.14.0",
     "freeport": "~1.0.2"
   }
